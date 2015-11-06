@@ -24,7 +24,6 @@ normal[:mod_php5_apache2][:packages] = [
     "php56-gd",
     "php56-cli",
     "php56-mcrypt",
-    "php56-pear",
     "php56",
     "php56-devel",
 	"php56-imap",
