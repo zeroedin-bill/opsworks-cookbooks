@@ -17,3 +17,16 @@
 #                                         'php-pear-Auth-SASL',
 #                                         'php-mysql',
 #                                         'php-mcrypt' ]
+normal[:mod_php5_apache2][:packages] = [
+    "php56-xml",
+    "php56-common",
+    "php56-xmlrpc",
+    "php56-gd",
+    "php56-cli",
+    "php56-mcrypt",
+    "php56-pear",
+    "php56",
+    "php56-devel",
+	"php56-imap",
+	"php56-pgsql"
+	]
